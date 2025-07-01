@@ -24,15 +24,6 @@ classDiagram
 
     %% Main class
     class iPhone {
-      +tocar()
-      +pausar()
-      +selecionarMusica(musica)
-      +ligar(numero)
-      +atender()
-      +iniciarCorreioVoz()
-      +exibirPagina(url)
-      +adicionarNovaAba()
-      +atualizarPagina()
     }
 
     %% Relationships (realizations)
